@@ -1,0 +1,5 @@
+C:\Users\JENNY\Desktop\Programing with C#\Project Two\BasicCalculator\BasicCalculatorLibrary\bin\Debug\BasicCalculatorLibrary.dll
+C:\Users\JENNY\Desktop\Programing with C#\Project Two\BasicCalculator\BasicCalculatorLibrary\bin\Debug\BasicCalculatorLibrary.pdb
+C:\Users\JENNY\Desktop\Programing with C#\Project Two\BasicCalculator\BasicCalculatorLibrary\obj\Debug\BasicCalculatorLibrary.csprojResolveAssemblyReference.cache
+C:\Users\JENNY\Desktop\Programing with C#\Project Two\BasicCalculator\BasicCalculatorLibrary\obj\Debug\BasicCalculatorLibrary.dll
+C:\Users\JENNY\Desktop\Programing with C#\Project Two\BasicCalculator\BasicCalculatorLibrary\obj\Debug\BasicCalculatorLibrary.pdb
